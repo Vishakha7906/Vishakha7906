@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Vishakha Saini pursuing Btech from THDC_IHET.
+I am currently indulging in an internship program "Women In Tech".
+I am currently learning Python alonwith HTML and CSS.
+Fun Fact-: "If Computer Programming were a country, it would be the third most diverse for languages spoken".
+
 
 <!--
 **Vishakha7906/Vishakha7906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
