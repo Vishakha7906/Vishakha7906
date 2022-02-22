@@ -4,7 +4,7 @@ I am currently indulging in an internship program "Women In Tech".
 I am currently learning Python alonwith HTML and CSS.
 Fun Fact-: "If Computer Programming were a country, it would be the third most diverse for languages spoken".
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishakha7906)](https://github.com/Vishakha7906/github-profile-trophy)
 <!--
 **Vishakha7906/Vishakha7906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
